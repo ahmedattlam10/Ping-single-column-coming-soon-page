@@ -115,10 +115,6 @@ body {
   font-weight: var(--fw-semibold);
 }
 
-.form-input.error {
-  border-color: var(--red-400-clr);
-}
-
 .submit-btn {
   background-color: var(--blue-500-clr);
   border: none;
